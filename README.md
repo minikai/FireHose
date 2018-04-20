@@ -2,6 +2,7 @@
 
 # Install Firehose
 `# git clone https://github.com/minikai/FireHose.git`
+
 `# pip install requests pandas influxdb numpy configparser`
 
 # Execute Firehose
